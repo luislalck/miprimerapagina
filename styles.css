@@ -40,6 +40,10 @@ h2 {font-family: 'Times New Roman', Times, serif;
     padding: 10px;
   }
 
+  .greeting {
+    text-align: center;
+  }
+
   @media (max-width: 600px) {
     .column {
       flex: 100%;
@@ -138,5 +142,6 @@ h2 {font-family: 'Times New Roman', Times, serif;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  size-adjust: 860px;
 
 }
